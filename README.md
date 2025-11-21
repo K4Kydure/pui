@@ -1,0 +1,2 @@
+- Files packed in .mrpack format
+- https://support.modrinth.com/en/articles/8802351-modrinth-modpack-format-mrpack
