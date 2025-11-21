@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 1,
+  "default_packs": [
+    "file/NoBushyLeaves.zip",
+    "file/EmbellishedStone-1.20.1-1.0.0.zip",
+    "file/EclecticTrove-1.20.1-1.3.0.zip",
+    "file/Aether Regenerated v1.1.2.zip",
+    "file/builtin/overrides_pack",
+    "file/Mandala's GUI - Dark mode Mod Compat 0.2.7 beta Hotfix.zip",
+    "file/Tetra_GUI_v.0.8.1.zip",
+    "file/Faithless 1.20.zip",
+    "file/Aether Regenerated v1.2.1.zip",
+    "file/Frozy's Quest Book.zip",
+    "file/Lopy-Create-Sophisticated-Backpacks.zip",
+    "file/cna-refrubished-0.2.zip",
+    "file/Created Updated v0.1.zip",
+    "file/Create Styled Ad Astra NASA Workbench.zip",
+    "file/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip",
+    "file/Create Computers 1.2.1 - 1.20.1.zip",
+    "file/Create Simple Storage 2.1.zip",
+    "file/Better tom's create storage 1.1.zip",
+    "file/Createful-Plaques v0.6 (1.20.x).zip",
+    "file/Icon Xaero's 1.2 HF.zip",
+    "file/Extra Xaero's Minimap Icons - 1.20.1 - 1.4.zip",
+    "file/XaerosMinimap Aether Icons 1.0.0.zip",
+    "file/Enigmatic 3D (V1.6.0.2).zip",
+    "file/CU - 3d Wrench.zip",
+    "file/Iron's_3D_Spell_book_v2.0.zip",
+    "file/RoP v1.5.1.zip",
+    "file/Newer Age v0.2.zip",
+    "file/[Moonsu] Better GUI for Sophisticated Backpacks 1.0.zip",
+    "file/Alex's Titles.zip",
+    "file/Create_Addons_Fix_v1.zip",
+    "file/Visual Titles.zip",
+    "file/Faithless-Fix.zip",
+    "file/Suren Sophisticated Storage v1.0.1.zip",
+    "file/Faithless Fix.zip",
+    "file/Rename Compat Project.zip",
+    "file/2D Sprites - End Remastered 3D v.3.5 - 1.20.1.zip"
+
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "file/LessStructures-SpacingTweaks-1.20.1-2.1.56.zip": {
+      "hidden": true
+    },
+    "file/WDA-NoFlyingStructures-1.18.2-1.19.2.zip": {
+      "hidden": true
+    },
+    "file/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip": {
+      "hidden": true
+    },
+    "Supplementaries Generated Pack": {
+      "hidden": true
+    },
+    "file/ctov-friends-and-foes-add-on-v2-0.zip": {
+      "hidden": true
+    },
+    "file/ctov-villager-plus-add-on-v2-0.zip": {
+      "hidden": true
+    },
+    "file/BWM_Rebalanced.zip": {
+      "hidden": true
+    },
+    "file/FarmersDelight_ToolFix_1.1+1.20.x.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-VillagersPlus_v1.zip": {
+      "hidden": true
+    },
+    "file/ctov-farmers-delight-add-on-v2-1a.zip": {
+      "hidden": true
+    },
+    "file/ichphilipp-s-endcity-vanilla-v1-1-1-18-1-e640.zip": {
+      "hidden": true
+    },
+    "file/ctov-irons-add-on-v1-2.zip": {
+      "hidden": true
+    },
+    "file/ctov-chefs-delight-add-on-v2-0.zip": {
+      "hidden": true
+    },
+    "builtin/menu_panorama": {
+      "hidden": true
+    },
+    "builtin/aether_125_art": {
+      "hidden": true
+    },
+    "builtin/builtin_resource_packs/legacy_dead_king_resource_pack": {
+      "hidden": true
+    },
+    "programmer_art": {
+      "hidden": true
+    },
+    "builtin/DAGoldenSwetBallFixClient": {
+      "hidden": true
+    },
+    "blue_skies:legacy_pack": {
+      "hidden": true
+    },
+    "Moonlight Mods Dynamic Assets": {
+      "hidden": true
+    },
+    "builtin/towntalk": {
+      "hidden": true
+    },
+    "builtin/deep_aether_additional_assets": {
+      "hidden": true
+    },
+    "builtin/aether_b173_art": {
+      "hidden": true
+    },
+    "builtin/ancient_aether_programmer_art": {
+      "hidden": true
+    },
+    "builtin/classic_blight": {
+      "hidden": true
+    },
+    "builtin/ozzified_textures": {
+      "hidden": true
+    },
+    "builtin/retro_dungeon": {
+      "hidden": true
+    },
+    "builtin/classic_moas": {
+      "hidden": true
+    },
+    "file/Origins_Expanded_Foods_v2.2+1.20.1.zip": {
+      "hidden": true
+    },
+    "lost_aether_content:classic_pack": {
+      "hidden": true
+    },
+    "supplementaries:darker_ropes": {
+      "hidden": true
+    },
+    "builtin/alternate_enchanted_grass": {
+      "hidden": true
+    },
+    "builtin/redux_nature": {
+      "hidden": true
+    },
+    "builtin/name_overrides": {
+      "hidden": true
+    },
+    "builtin/ancient_vaults": {
+      "hidden": true
+    },
+    "file/origins_survive_v2.zip": {
+      "hidden": true
+    },
+    "continuity:default": {
+      "hidden": true
+    },
+    "continuity:glass_pane_culling_fix": {
+      "hidden": true
+    },
+    "file/Quark Programmer Art.zip": {
+      "hidden": true
+    },
+    "lambdabettergrass:default": {
+      "hidden": true
+    }
+  }
+}

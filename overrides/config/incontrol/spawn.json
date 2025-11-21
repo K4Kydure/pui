@@ -1,0 +1,28 @@
+[
+  {
+    "result": "deny",
+    "mob": [
+      "enemyexpansion:faller",
+      "enemyexpansion:troll",
+      "enemyexpansion:trollenraged",
+      "enemyexpansion:direwolf",
+      "enemyexpansion:silverqueen",
+      "enemyexpansion:silverqueenbodiless",
+      "enemyexpansion:huntsman",
+      "enemyexpansion:crawler",
+      "enemyexpansion:intruder",
+      "enemyexpansion:vampire",
+      "enemyexpansion:vampbiter",
+      "enemyexpansion:vampflyer",
+      "enemyexpansion:sprinter",
+      "enemyexpansion:slugger",
+      "enemyexpansion:meature",
+      "enemyexpansion:equestrian",
+      "enemyexpansion:goblin",
+      "enemyexpansion:starved",
+      "enemyexpansion:wasp"
+    ],
+    "minlight": 1,
+    "when": "onjoin"
+  }
+]

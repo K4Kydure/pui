@@ -1,0 +1,15 @@
+{
+	id: "14FB56D58C980E77"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 10, item: "minecraft:coal", weight: 15.0f }
+		{ count: 5, item: "minecraft:iron_ingot", weight: 7.0f }
+		{ count: 3, item: "minecraft:gold_ingot", title: "&r3x Gold Ingot", weight: 6.0f }
+		{ count: 2, item: "blue_skies:horizonite_ingot", weight: 6.0f }
+		{ item: "minecraft:diamond", title: "&r1x Diamond", weight: 4.0f }
+		{ item: "minecraft:netherite_ingot", title: "&r1x Netherite Ingot" }
+		{ item: "cataclysm:ignitium_ingot", title: "&r1x Ignitum Ingot", weight: 0.5f }
+	]
+	title: "&dRandom Ingot"
+}
