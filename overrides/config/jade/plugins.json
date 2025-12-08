@@ -92,8 +92,5 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
-  },
-  "corpse": {
-    "corpse": true
   }
 }
