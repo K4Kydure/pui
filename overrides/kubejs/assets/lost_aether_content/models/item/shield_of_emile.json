@@ -1,0 +1,75 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lost_aether_content:item/aether_shields"
+	},
+	"elements": [
+		{
+			"name": "shield",
+			"from": [-2, 3, 8],
+			"to": [17, 22, 9],
+			"faces": {
+				"north": {"uv": [6, 0, 8.375, 2.375], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 8.375, 2.375], "texture": "#0"},
+				"south": {"uv": [8.375, 0, 10.75, 2.375], "texture": "#0"},
+				"west": {"uv": [6, 0, 6.125, 2.375], "texture": "#0"},
+				"up": {"uv": [8.5, 0, 10.75, 0.125], "texture": "#0"},
+				"down": {"uv": [6, 2.25, 8.375, 2.375], "texture": "#0"}
+			}
+		},
+		{
+			"name": "handle",
+			"from": [6.5, 9.5, 9],
+			"to": [8.5, 15.5, 15],
+			"faces": {
+				"north": {"uv": [11.5, 1.125, 11.75, 1.875], "texture": "#0"},
+				"east": {"uv": [10.75, 1.125, 11.5, 1.875], "texture": "#0"},
+				"south": {"uv": [11.5, 1.125, 11.75, 1.875], "texture": "#0"},
+				"west": {"uv": [10.75, 1.125, 11.5, 1.875], "texture": "#0"},
+				"up": {"uv": [11.5, 0.375, 12, 1.125], "texture": "#0"},
+				"down": {"uv": [11.5, 0.375, 12, 1.125], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"blocking": 1}, "model": "lost_aether_content:item/shield_of_emile_blocking"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-142, -89.75, -145.5],
+			"translation": [4, -7, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-142, -89.75, -145.5],
+			"translation": [4, -7, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 7],
+			"translation": [4.25, -14, -3.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 7],
+			"translation": [4.25, -14, -3.5],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [8, 165, 7],
+			"translation": [-1, -3.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0.75, 6.5, -4.5]
+		},
+		"fixed": {
+			"translation": [0, -2, -1.75],
+			"scale": [0.55, 0.55, 0.55]
+		}
+	}
+}

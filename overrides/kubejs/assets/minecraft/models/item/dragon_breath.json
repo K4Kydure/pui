@@ -1,0 +1,7 @@
+{
+	"parent": "item/experience_bottle",
+	"textures": {
+		"0": "item/dragon_breath_model",
+		"particle": "item/dragon_breath_model"
+	}
+}

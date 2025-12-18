@@ -1,0 +1,6 @@
+{
+  "parent": "item/golden_boots_amethyst_trim",
+	"textures": {
+		"2": "item/trim/quartz"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/iron_helmet_amethyst_trim",
+	"textures": {
+		"2": "item/trim/lapis"
+  }
+}

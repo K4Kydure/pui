@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/wildflower" },
+		{ "model": "biomesoplenty:block/wildflower_0" },
+		{ "model": "biomesoplenty:block/wildflower_1" },
+		{ "model": "biomesoplenty:block/wildflower_2" }
+		]
+    }
+}

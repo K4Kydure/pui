@@ -1,0 +1,48 @@
+{
+    "variants": {
+		"": [
+            { 
+			  "model": "biomesoplenty:block/flesh", "weight":80
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_0", "weight":80
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_1", "weight":80
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_2", "weight":70 
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_3", "weight":70
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_4", "weight":70 
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_5", "weight":45
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_6", "weight":20
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_7", "weight":15
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_8", "weight":14
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_9", "weight":12
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_10", "weight":11
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_11", "weight":8
+			},
+			{ 
+			  "model": "biomesoplenty:block/flesh_12", "weight":2
+			}
+        ]
+    }
+}

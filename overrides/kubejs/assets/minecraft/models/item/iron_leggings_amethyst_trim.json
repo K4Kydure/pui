@@ -1,0 +1,9 @@
+{
+  "parent": "item/leather_leggings",
+	"textures": {
+		"1": "item/iron_leggings",
+		"2": "item/trim/amethyst",
+		"3": "block/models/armor/iron_layer_2",
+		"4": "block/air"
+  }
+}

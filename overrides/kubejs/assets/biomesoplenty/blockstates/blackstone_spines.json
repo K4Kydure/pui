@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/blackstone_spines" },
+		{ "model": "biomesoplenty:block/blackstone_spines_0" },
+		{ "model": "biomesoplenty:block/blackstone_spines_1" },
+		{ "model": "biomesoplenty:block/blackstone_spines_2" }
+		]
+    }
+}

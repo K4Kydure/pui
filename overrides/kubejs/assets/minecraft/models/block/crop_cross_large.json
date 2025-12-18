@@ -1,0 +1,44 @@
+{
+	"texture_size": [32, 48],
+	"textures": {
+		"particle": "block/farmland_moist"
+	},
+	"elements": [
+		{
+			"from": [-8, -16, 8],
+			"to": [24, 0, 8],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 10.66667, 16, 16], "texture": "#crop"},
+				"south": {"uv": [0, 10.66667, 16, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [8, -16, -8],
+			"to": [8, 0, 24],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 10.66667, 16, 16], "texture": "#crop"},
+				"west": {"uv": [0, 10.66667, 16, 16], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [-8, 0, 8],
+			"to": [24, 32, 8],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 10.66667], "texture": "#crop"},
+				"south": {"uv": [0, 0, 16, 10.66667], "texture": "#crop"}
+			}
+		},
+		{
+			"from": [8, 0, -8],
+			"to": [8, 32, 24],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [0, 0, 16, 10.66667], "texture": "#crop"},
+				"west": {"uv": [0, 0, 16, 10.66667], "texture": "#crop"}
+			}
+		}
+	]
+}

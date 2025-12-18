@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"render_type": "minecraft:translucent",
+	"textures": {
+		"1": "aether:block/utility/ambrosium_torch_model",
+		"particle": "aether:block/utility/ambrosium_torch_model"
+	},
+	"elements": [
+		{
+			"from": [-1, 3.5, 8],
+			"to": [1, 13.5, 10],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"up": {"uv": [8, 4, 10, 6], "texture": "#1"},
+				"down": {"uv": [8, 7, 10, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-1, 3.5, 8],
+			"to": [1, 15.5, 10],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [11, 2, 13, 14], "texture": "#1"},
+				"east": {"uv": [11, 2, 13, 14], "texture": "#1"},
+				"south": {"uv": [11, 2, 13, 14], "texture": "#1"},
+				"west": {"uv": [11, 2, 13, 14], "texture": "#1"},
+				"up": {"uv": [8, 4, 10, 6], "texture": "#1"},
+				"down": {"uv": [8, 7, 10, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [2, 16.5, 11],
+			"to": [-2, 11.5, 7],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [0, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [3, 4, 7, 9], "texture": "#1"},
+				"east": {"uv": [3, 4, 7, 9], "texture": "#1"},
+				"south": {"uv": [3, 4, 7, 9], "texture": "#1"},
+				"west": {"uv": [3, 4, 7, 9], "texture": "#1"},
+				"up": {"uv": [4, 7, 5, 8], "texture": "#1"},
+				"down": {"uv": [5, 6, 6, 7], "texture": "#1"}
+			}
+		}
+	]
+}

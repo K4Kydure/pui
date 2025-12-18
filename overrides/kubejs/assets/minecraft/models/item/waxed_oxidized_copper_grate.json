@@ -1,0 +1,7 @@
+{
+  "parent": "item/template_transparent_outline_block",
+	"textures": {
+		"all": "block/oxidized_copper_grate",
+		"inner": "block/oxidized_copper_grate_inner"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/sniffer_egg",
+  "textures": {
+    "all": "block/sniffer_egg_slightly_cracked"
+  }
+}

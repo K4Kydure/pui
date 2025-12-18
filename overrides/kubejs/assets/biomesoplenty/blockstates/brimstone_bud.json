@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/brimstone_bud" },
+		{ "model": "biomesoplenty:block/brimstone_bud_0" },
+		{ "model": "biomesoplenty:block/brimstone_bud_1" },
+		{ "model": "biomesoplenty:block/brimstone_bud_2" }
+		]
+    }
+}

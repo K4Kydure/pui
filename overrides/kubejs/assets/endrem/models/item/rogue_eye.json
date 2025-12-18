@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "endrem:item/rogue_eye"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "pommel:is_held": 1.0
+      },
+      "model": "endrem:item/rogue_eye3d"
+    },
+    {
+      "predicate": {
+        "pommel:is_thrown": 1.0
+      },
+      "model": "endrem:item/rogue_eye3d"
+    },
+    {
+      "predicate": {
+        "pommel:is_used": 1.0
+      },
+      "model": "endrem:item/rogue_eye3d"
+    },
+    {
+      "predicate": {
+        "pommel:is_ground": 1.0
+      },
+      "model": "endrem:item/rogue_eye3d"
+    },
+    {
+      "predicate": {
+        "pommel:is_fixed": 1.0
+      },
+      "model": "endrem:item/rogue_eye3d"
+    }
+  ]
+}

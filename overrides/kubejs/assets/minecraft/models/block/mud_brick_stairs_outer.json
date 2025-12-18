@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable_outer_stairs",
+  "textures": {
+    "bottom": "block/mud_brick_stairs_bottom",
+    "top": "block/mud_brick_stairs_top",
+    "side": "block/mud_brick_stairs"
+  }
+}

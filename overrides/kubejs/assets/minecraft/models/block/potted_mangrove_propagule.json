@@ -1,0 +1,8 @@
+{
+	"parent": "block/flower_pot_cross_0",
+	"textures": {
+		"vines": "block/flower_pot_mangrove_propagule",
+		"plant": "block/mangrove_propagule",
+		"soil": "block/mud"
+	}
+}

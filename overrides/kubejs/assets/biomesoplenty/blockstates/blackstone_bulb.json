@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/blackstone_bulb" },
+		{ "model": "biomesoplenty:block/blackstone_bulb_0" },
+		{ "model": "biomesoplenty:block/blackstone_bulb_1" },
+		{ "model": "biomesoplenty:block/blackstone_bulb_2" }
+		]
+    }
+}

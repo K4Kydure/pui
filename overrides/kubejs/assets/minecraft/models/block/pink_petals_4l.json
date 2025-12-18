@@ -1,0 +1,7 @@
+{
+    "parent": "block/pink_petals_1l",
+	"textures": {
+		"1": "block/pink_petals",
+		"particle": "block/pink_petals"
+	}
+}

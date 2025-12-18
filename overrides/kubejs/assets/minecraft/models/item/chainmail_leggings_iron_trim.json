@@ -1,0 +1,6 @@
+{
+  "parent": "item/chainmail_leggings_amethyst_trim",
+	"textures": {
+		"2": "item/trim/iron"
+  }
+}

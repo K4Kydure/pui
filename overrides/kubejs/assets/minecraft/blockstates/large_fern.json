@@ -1,0 +1,30 @@
+{
+  "multipart": [
+    {
+      "when": { "half":"lower" },
+      "apply": { "model": "block/large_fern_bottom" }
+    },
+    {
+      "when": { "half":"upper" },
+      "apply": { "model": "block/large_fern_top" }
+    },
+    {
+      "when": { "half":"upper" },
+      "apply": [
+		{ "model": "block/air", "weight": 70 },
+		{ "model": "block/fireflies_0", "weight": 1 },
+		{ "model": "block/fireflies_22", "weight": 1 },
+		{ "model": "block/fireflies_-22", "weight": 1 },
+		{ "model": "block/fireflies_0", "weight": 1, "y": 90 },
+		{ "model": "block/fireflies_22", "weight": 1, "y": 90 },
+		{ "model": "block/fireflies_-22", "weight": 1, "y": 90 },
+		{ "model": "block/fireflies_0", "weight": 1, "y": 180 },
+		{ "model": "block/fireflies_22", "weight": 1, "y": 180 },
+		{ "model": "block/fireflies_-22", "weight": 1, "y": 180 },
+		{ "model": "block/fireflies_0", "weight": 1, "y": 270 },
+		{ "model": "block/fireflies_22", "weight": 1, "y": 270 },
+		{ "model": "block/fireflies_-22", "weight": 1, "y": 270 }
+      ]
+	}
+  ]
+}

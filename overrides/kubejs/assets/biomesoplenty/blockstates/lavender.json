@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "biomesoplenty:block/lavender" },
+		{ "model": "biomesoplenty:block/lavender_0" },
+		{ "model": "biomesoplenty:block/lavender_1" },
+		{ "model": "biomesoplenty:block/lavender_2" }
+		]
+    }
+}

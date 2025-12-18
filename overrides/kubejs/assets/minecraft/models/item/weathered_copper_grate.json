@@ -1,0 +1,7 @@
+{
+  "parent": "item/template_transparent_block",
+	"textures": {
+		"all": "block/weathered_copper_grate",
+		"inner": "block/weathered_copper_grate_inner"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/template_outline_block",
+	"textures": {
+		"all": "block/exposed_chiseled_copper"
+	}
+}

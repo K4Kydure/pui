@@ -1,0 +1,6 @@
+{
+  "parent": "item/template_transparent_block",
+	"textures": {
+		"all": "block/mangrove_roots_side"
+	}
+}

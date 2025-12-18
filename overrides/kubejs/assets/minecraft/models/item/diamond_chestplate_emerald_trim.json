@@ -1,0 +1,6 @@
+{
+  "parent": "item/diamond_chestplate_amethyst_trim",
+	"textures": {
+		"2": "item/trim/emerald"
+  }
+}

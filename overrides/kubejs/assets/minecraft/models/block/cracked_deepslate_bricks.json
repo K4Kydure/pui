@@ -1,0 +1,7 @@
+{
+	"parent": "block/stone_bricks",
+	"textures": {
+		"0": "block/cracked_deepslate_bricks_model",
+		"particle": "block/cracked_deepslate_bricks"
+	}
+}

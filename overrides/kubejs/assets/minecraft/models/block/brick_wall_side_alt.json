@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"wall": "block/brick_wall",
+		"particle": "block/bricks"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 11],
+			"to": [11, 14, 16],
+			"faces": {
+				"east": {"uv": [4.25, 6.5, 5.5, 10], "texture": "#wall"},
+				"south": {"uv": [14.5, 6.5, 16, 10], "texture": "#wall", "cullface": "south"},
+				"west": {"uv": [13, 6.5, 14.25, 10], "texture": "#wall"},
+				"up": {"uv": [5.5, 5.75, 4.25, 4.25], "rotation": 90, "texture": "#wall"},
+				"down": {"uv": [14.25, 5.75, 13, 4.25], "rotation": 90, "texture": "#wall", "cullface": "down"}
+			}
+		}
+	]
+}
