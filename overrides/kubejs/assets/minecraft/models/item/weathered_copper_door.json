@@ -1,8 +1,0 @@
-{
-	"parent": "item/acacia_door",
-	"textures": {
-		"0": "block/weathered_copper_door_bottom",
-		"1": "item/weathered_copper_door",
-		"2": "block/weathered_copper_door_top"
-	}
-}

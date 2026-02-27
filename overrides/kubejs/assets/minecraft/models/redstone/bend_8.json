@@ -1,6 +1,0 @@
-{
-    "parent": "redstone/redstone_bend",
-	"textures": {
-		"wire": "block/redstone/power_8"
-	}
-}

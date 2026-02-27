@@ -1,6 +1,0 @@
-{
-	"parent": "item/leather_leggings_amethyst_trim",
-	"textures": {
-		"5": "item/trim/emerald"
-	}
-}

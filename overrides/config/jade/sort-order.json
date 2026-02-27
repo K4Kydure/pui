@@ -1,5 +1,6 @@
 {
   "autoleveling:level": null,
+  "balm:jade": null,
   "corpse:corpse": null,
   "create:backtank_capacity": null,
   "create:blaze_burner": null,
@@ -28,6 +29,7 @@
   "jade:mod_name": null,
   "jade:object_name": null,
   "jade:registry_name": null,
+  "lootr:info": null,
   "lootr:inventory": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
@@ -81,6 +83,11 @@
   "supplementaries:present": null,
   "supplementaries:safe": null,
   "toms_trading_network:vending_machine": null,
+  "touhou_little_maid:altar": null,
+  "touhou_little_maid:maid": null,
+  "touhou_little_maid:picnic_mat": null,
+  "touhou_little_maid:shrine_lamp": null,
+  "touhou_little_maid:tombstone": null,
   "twilightforest:quest_ram_wool": null,
   "waystones:waystone": null
 }

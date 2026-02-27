@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_helmet",
-	"textures": {
-		"1": "item/netherite_helmet",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/netherite_layer_1",
-		"4": "block/air"
-  }
-}

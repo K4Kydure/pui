@@ -1,7 +1,0 @@
-{
-	"parent": "item/acacia_trapdoor",
-	"textures": {
-		"0": "block/oxidized_copper_trapdoor",
-		"1": "item/waxed_oxidized_copper_trapdoor"
-	}
-}

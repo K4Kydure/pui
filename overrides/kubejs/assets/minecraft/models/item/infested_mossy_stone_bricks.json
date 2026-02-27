@@ -1,6 +1,0 @@
-{
-  "parent": "item/infested_stone_bricks",
-  "textures": {
-    "0": "block/infested_mossy_stone_bricks_model"
-  }
-}

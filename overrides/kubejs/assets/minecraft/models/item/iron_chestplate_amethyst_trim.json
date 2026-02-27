@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_chestplate",
-	"textures": {
-		"1": "item/iron_chestplate",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/iron_layer_1",
-		"4": "block/air"
-  }
-}

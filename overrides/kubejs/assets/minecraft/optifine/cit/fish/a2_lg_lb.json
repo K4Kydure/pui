@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/fish/a_light_gray",
-    "layer1": "item/fish/a2/light_blue"
-  }
-}

@@ -1,8 +1,0 @@
-{
-	"parent": "item/book",
-	"ambientocclusion": false,
-	"textures": {
-		"1": "item/knowledge_book_model",
-		"2": "item/knowledge_book"
-	}
-}

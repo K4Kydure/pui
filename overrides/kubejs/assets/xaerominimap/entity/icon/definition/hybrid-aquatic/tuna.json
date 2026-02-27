@@ -1,9 +1,0 @@
-{
-  "variants": {
-  "hybrid-aquatic:textures/entity/tuna.png":"outlined_sprite:hybrid-aquatic/tuna/tuna.png",
-  "hybrid-aquatic:textures/entity/tuna_blackfin.png":"outlined_sprite:hybrid-aquatic/tuna/tuna_blackfin.png",
-  "hybrid-aquatic:textures/entity/tuna_bluefin.png":"outlined_sprite:hybrid-aquatic/tuna/tuna_bluefin.png",
-  "hybrid-aquatic:textures/entity/tuna_yellowfin.png":"outlined_sprite:hybrid-aquatic/tuna/tuna_yellowfin.png",
-  "layersAllowed": true
-  }
-} 

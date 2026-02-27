@@ -1,6 +1,0 @@
-{
-    "parent": "item/hypixel/gui",
-	"textures": {
-		"2": "item/hypixel/back"
-	}
-}

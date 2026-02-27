@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures": {
-    "end": "block/note_block/guitar_10",
-    "side": "block/note_block"
-  }
-}

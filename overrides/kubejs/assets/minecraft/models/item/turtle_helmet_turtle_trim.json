@@ -1,6 +1,0 @@
-{
-  "parent": "item/turtle_helmet_amethyst_trim",
-	"textures": {
-		"2": "item/trim/diamond"
-  }
-}

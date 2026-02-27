@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_boots",
-	"textures": {
-		"1": "item/iron_boots",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/iron_layer_1",
-		"4": "block/air"
-  }
-}

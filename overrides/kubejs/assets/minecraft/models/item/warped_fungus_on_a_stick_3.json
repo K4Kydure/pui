@@ -1,6 +1,0 @@
-{
-	"parent": "item/warped_fungus_on_a_stick",
-	"textures": {
-		"0": "item/warped_fungus_on_a_stick_model_3"
-	}
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_chestplate",
-	"textures": {
-		"1": "item/golden_chestplate",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/gold_layer_1",
-		"4": "block/air"
-  }
-}

@@ -54,6 +54,20 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "lootr": {
+    "info": true
+  },
+  "balm": {
+    "jade": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -62,6 +76,10 @@
   },
   "autoleveling": {
     "level": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
   },
   "delightful": {
     "crop_progress": true,
@@ -74,14 +92,6 @@
   "supplementaries": {
     "hat_stand": true
   },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
-  },
   "create": {
     "filter": true,
     "backtank_capacity": true,
@@ -92,5 +102,8 @@
     "crafting_blueprint": true,
     "goggles.detailed": false,
     "placard": true
+  },
+  "waystones": {
+    "waystone": true
   }
 }

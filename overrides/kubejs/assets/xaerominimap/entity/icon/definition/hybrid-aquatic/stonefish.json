@@ -1,8 +1,0 @@
-{
-    "variants": {
-    "hybrid-aquatic:textures/entity/stonefish.png":"outlined_sprite:hybrid-aquatic/stonefish/stonefish.png",
-    "hybrid-aquatic:textures/entity/stonefish_gray.png":"outlined_sprite:hybrid-aquatic/stonefish/stonefish_gray.png",
-    "hybrid-aquatic:textures/entity/stonefish_green.png":"outlined_sprite:hybrid-aquatic/stonefish/stonefish_green.png",
-    "layersAllowed": true
-    }
-} 

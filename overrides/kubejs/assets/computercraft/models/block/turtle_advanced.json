@@ -1,7 +1,0 @@
-{
-	"credit": "End_Rage waz here",
-	"parent": "computercraft:block/turtle_base",
-	"textures": {
-		"#texture": "computercraft:block/turtles/turtle_advanced"
-	}
-}

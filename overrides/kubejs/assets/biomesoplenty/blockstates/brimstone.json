@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "biomesoplenty:block/brimstone" },
-			{ "model": "biomesoplenty:block/brimstone_0" }
-        ]
-    }
-}

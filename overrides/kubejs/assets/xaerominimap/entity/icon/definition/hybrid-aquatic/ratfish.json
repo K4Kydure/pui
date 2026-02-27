@@ -1,7 +1,0 @@
-{
-    "variants": {
-    "hybrid-aquatic:textures/entity/ratfish.png":"outlined_sprite:hybrid-aquatic/ratfish/ratfish.png",
-    "hybrid-aquatic:textures/entity/ratfish_gray.png":"outlined_sprite:hybrid-aquatic/ratfish/ratfish_gray.png",
-    "layersAllowed": true
-    }
-} 

@@ -1,8 +1,0 @@
-{
-  "parent": "item/template_invisible_block",
-  "textures": {
-	"all": "block/light_block_4",
-	"end": "block/light_block_bottom_4",
-    "item": "item/light_04"
-  }
-}

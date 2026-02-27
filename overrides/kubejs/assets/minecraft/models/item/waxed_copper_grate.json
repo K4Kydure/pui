@@ -1,7 +1,0 @@
-{
-  "parent": "item/template_transparent_outline_block",
-	"textures": {
-		"all": "block/copper_grate",
-		"inner": "block/copper_grate_inner"
-	}
-}

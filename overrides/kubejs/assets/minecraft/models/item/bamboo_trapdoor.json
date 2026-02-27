@@ -1,7 +1,0 @@
-{
-	"parent": "item/acacia_trapdoor",
-	"textures": {
-		"0": "block/bamboo_trapdoor",
-		"1": "item/bamboo_trapdoor"
-	}
-}

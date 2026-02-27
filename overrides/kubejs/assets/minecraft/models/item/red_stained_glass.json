@@ -1,6 +1,0 @@
-{
-  "parent": "item/template_transparent_block",
-	"textures": {
-		"all": "block/red_stained_glass"
-	}
-}

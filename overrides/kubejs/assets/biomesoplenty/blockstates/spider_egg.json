@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-        { "model": "biomesoplenty:block/spider_egg"},
-        { "model": "biomesoplenty:block/spider_egg_0"}
-    ]
-    }
-}

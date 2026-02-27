@@ -1,9 +1,0 @@
-{
-    "variants": {
-    "hybrid-aquatic:textures/entity/sunfish.png":"outlined_sprite:hybrid-aquatic/sunfish.png",
-    "hybrid-aquatic:textures/entity/sunfish_hoodwinker.png":"outlined_sprite:hybrid-aquatic/sunfish_hoodwinker.png",
-    "hybrid-aquatic:textures/entity/sunfish_ocean.png":"outlined_sprite:hybrid-aquatic/sunfish_ocean.png",
-    "hybrid-aquatic:textures/entity/sunfish_sharptail.png":"outlined_sprite:hybrid-aquatic/sunfish_sharptail.png",
-    "layersAllowed": true
-    }
-} 

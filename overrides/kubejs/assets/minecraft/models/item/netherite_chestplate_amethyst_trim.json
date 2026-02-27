@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_chestplate",
-	"textures": {
-		"1": "item/netherite_chestplate",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/netherite_layer_1",
-		"4": "block/air"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "bottom": "aether:block/construction/skyroot_planks",
-    "side": "aether:block/utility/freezer_side",
-    "top": "aether:block/utility/freezer_top"
-  }
-}

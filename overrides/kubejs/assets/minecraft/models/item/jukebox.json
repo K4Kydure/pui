@@ -1,7 +1,0 @@
-{
-	"parent": "block/cube_column",
-	"textures": {
-		"end": "block/jukebox_top_disc",
-		"side": "block/jukebox_side"
-	}
-}

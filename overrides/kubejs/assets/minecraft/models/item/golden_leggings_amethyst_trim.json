@@ -1,9 +1,0 @@
-{
-  "parent": "item/leather_leggings",
-	"textures": {
-		"1": "item/golden_leggings",
-		"2": "item/trim/amethyst",
-		"3": "block/models/armor/gold_layer_2",
-		"4": "block/air"
-  }
-}

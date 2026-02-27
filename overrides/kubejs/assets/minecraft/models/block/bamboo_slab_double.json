@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_column",
-  "textures": {
-    "end": "block/bamboo_planks_slab_top_double",
-    "side": "block/bamboo_planks_slab_side_double",
-    "particle": "block/bamboo_planks_slab_side_double"
-  }
-}

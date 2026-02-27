@@ -1,7 +1,0 @@
-{
-  "parent": "item/template_glow_outline_block",
-	"textures": {
-		"all": "block/oxidized_copper_bulb_lit",
-		"outline": "block/air"
-	}
-}
