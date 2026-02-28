@@ -4,7 +4,7 @@ snowGravity = true
 snowAlwaysReplaceable = true
 snowAccumulationDuringSnowstorm = true
 snowAccumulationDuringSnowfall = false
-snowAccumulationMaxLayers = 8
+snowAccumulationMaxLayers = 1
 thinnerBoundingBox = true
 snowMakingIce = true
 snowNeverMelt = false
@@ -20,3 +20,4 @@ mobSpawningMaxLayers = 8
 
 [integration]
 accumulationWinterOnly = false
+
