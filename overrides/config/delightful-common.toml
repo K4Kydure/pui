@@ -165,12 +165,12 @@
 	venison_stew = true
 	venison_stew_cup = true
 	chorus_muffin = true
-	salmonberry_pie_slice = true
 	glow_jam_cookie = true
 	glow_jam_cookie_tile_slab = true
 	glow_jam_cookie_tile_stairs = true
 	glow_jam_cookie_tile_wall = true
 	glow_jam_cookie_tiles = true
+	salmonberry_pie_slice = true
 	source_berry_cookie_tile_slab = true
 	source_berry_cookie_tile_stairs = true
 	source_berry_cookie_tile_wall = true
