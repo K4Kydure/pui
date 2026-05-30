@@ -1,0 +1,22 @@
+{
+  "download_natives": false,
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30,
+      "volume_multipliers": {
+        "master": 1.0
+      }
+    },
+    "invisible": {
+      "volume_multipliers": {
+        "master": 1.0
+      }
+    },
+    "unplugged": {
+      "enable_vsync": false
+    },
+    "abandoned": {
+      "frame_rate_target": 60
+    }
+  }
+}
