@@ -5,9 +5,9 @@
 	#Range: > 0
 	modpackProjectID = 0
 	#The name of the modpack
-	modpackName = "SteamPunk"
+	modpackName = "PuiCraft"
 	#The version of the modpack
-	modpackVersion = "v18"
+	modpackVersion = "1.2.X"
 	#Use the metadata.json to determine the modpack version
 	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
 	useMetadata = false
