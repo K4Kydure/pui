@@ -160,7 +160,7 @@ key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.azurelib.reload:key.keyboard.r
 key_key.azurelib.scope:key.keyboard.left.alt
 key_key.azurelib.fire:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r:CONTROL
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.rustic_engineer.w:key.keyboard.w
