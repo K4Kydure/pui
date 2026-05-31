@@ -5,10 +5,10 @@
 		#Configure FPS Display mode
 		#Complete mode gives you min FPS count and average count
 		#Allowed Values: OFF, SIMPLE, ADVANCED
-		fpsDisplay = "OFF"
+		fpsDisplay = "SIMPLE"
 		#Shows GPU and memory usage onto FPS display
 		#Allowed Values: OFF, ON, GPU, RAM
-		fpsDisplaySystem = "OFF"
+		fpsDisplaySystem = "MEM"
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
 		#Allowed Values: WINDOWED, BORDERLESS, FULLSCREEN
@@ -23,7 +23,7 @@
 		#Configure FPS Display margin
 		#Give some space between corner and text
 		#Range: 0 ~ 48
-		fpsDisplayMargin = 12
+		fpsDisplayMargin = 4
 
 	[embeddiumplus.performance]
 		#Toggles JREI item rendering until searching
